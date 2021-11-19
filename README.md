@@ -1,7 +1,6 @@
 
 
 
--📕 estou iniciando no mundo da programação, ultimamente estudando java.script
    
    
   
